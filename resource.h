@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by PropsTestConsole.rc
+// Used by PropsConsole.rc
 
 // Next default values for new objects
 // 

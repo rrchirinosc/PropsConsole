@@ -1,4 +1,4 @@
-// PropsTestConsole: 
+// PropsConsole: 
 //			A console application that connects to an SQL Server via ODBC and allows to execute and visualize query results.
 //
 // Usage:	
@@ -12,7 +12,7 @@
 //			Program also accept the DSN from the command-line.
 //
 // Modules:	
-//			PropsTestConsole, main application and query loop
+//			PropsConsole, main application and query loop
 //			PropsSQLHandler, class in charge to handle all SQL communication
 //
 // Author:	
