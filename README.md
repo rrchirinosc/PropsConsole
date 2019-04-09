@@ -18,3 +18,13 @@ To start, select an existing database in the connected server by doing 'use DBna
 can be executed against it at the prompt.
 
 Program also accepts a system DSN from the command-line.
+
+Compilation details:
+
+Project was created using Visual Studio 2017 -- not tested with other versions.
+
+To build dowload source and execute PropsConsole.vcxproj.
+
+This will launch Visual Studio with the project loaded.
+
+Build the desired configuration and save the solution file (sln) for future use.
