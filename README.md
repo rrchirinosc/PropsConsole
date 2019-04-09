@@ -12,6 +12,9 @@ Upon starting, the program queries for a DSN and indicates whether or not the co
 
 Currently if the connection fails program aborts.
 
-Once connected, queries can be executed at the prompt.
+If the connecton succeedes, the UI shows the server we are connected to and queries can be executed.
 
-Program also accept the DSN from the command-line.
+To start, select an existing database in the connected server by doing 'use DBname' and upon success 'select' statements 
+can be executed against it at the prompt.
+
+Program also accepts a system DSN from the command-line.
